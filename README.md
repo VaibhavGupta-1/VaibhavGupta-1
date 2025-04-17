@@ -19,15 +19,7 @@
 - **Languages**: Kotlin, Java, Python, C  
 - **Android**: Jetpack Compose, RoomDB, Firebase  
 - **Web**: HTML, CSS, JavaScript (Basics)  
-- **Data Science**: NumPy, Pandas (Learning), SQL  
 - **Tools**: Git & GitHub, Linux, Shell Scripting, DaVinci Resolve (Video Editing)
-
----
-
-## 📈 Currently Exploring  
-- 🔍 System Design (basics)  
-- 📊 Pandas and data visualization  
-- 🌐 Android App Deployment and UI/UX best practices
 
 ---
 
