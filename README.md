@@ -14,8 +14,6 @@
 
 - 💡 Proficient in **Kotlin**, **Jetpack Compose**, **MVVM architecture**, and **Clean Architecture**
 
-- 🧠 Solved **150+ DSA problems** with **1,398 LeetCode rating** and **1,159 CodeChef rating**
-
 - 🏗️ Experienced with **CameraX**, **Room**, **Firebase**, **Retrofit**, and **RESTful APIs**
 
 - 📫 How to reach me **vg1992005@gmail.com**
