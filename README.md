@@ -40,3 +40,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/VaibhavGupta-1/VaibhavGupta-1/output/snake.svg" alt="Snake animation" />
+
+
+[![An image of @studggle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/studggle)](https://holopin.io/@studggle)
