@@ -149,8 +149,8 @@ I/Hacktoberfest25  Supercontributor → ranked in first 10,000 global contributo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VaibhavGupta-1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=7F52FF&icon_color=3DDC84&text_color=c9c9c9&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGupta-1&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=7F52FF&text_color=c9c9c9"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=VaibhavGupta-1&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=7F52FF&icon_color=3DDC84&text_color=c9c9c9&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavGupta-1&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=7F52FF&text_color=c9c9c9"/> -->
 
 <br>
 
