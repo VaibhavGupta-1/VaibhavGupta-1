@@ -23,7 +23,6 @@
     android:name="Vaibhav Gupta"
     android:role="Android Developer Intern x3"
     android:college="ABES Engineering College — B.Tech CSE (Data Science) '27"
-    android:cgpa="8.11"
     android:status="open_to_internships" >
 
     <!-- currently building -->
